@@ -1,10 +1,11 @@
-### Hi there 👋
+### Olá pessoa 👋
+⚡ Sou estudante e muito entusiasmado com a programação, procurando aprender mais com qualquer tipo de projeto.
+**Também sou apaixonado pelo hardware na maquina tanto quanto pelo software** e busco sempre aprender mais dos dois
+
+💬Gosto muito de falar sobre tecnologia e suas implicações em sua aplicação e no mundo real,
 
 <!--
 **FelipeEstevanatto/FelipeEstevanatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
