@@ -2,7 +2,11 @@
 ⚡ Sou estudante e muito entusiasmado com a programação, procurando aprender mais com qualquer tipo de projeto.
 **Também sou apaixonado pelo hardware na maquina tanto quanto pelo software** e busco sempre aprender mais dos dois
 
-💬Gosto muito de falar sobre tecnologia e suas implicações em sua aplicação e no mundo real,
+💬-Gosto muito de falar sobre tecnologia e suas implicações em sua aplicação e no mundo real
+🤔-Sou fascinado e interessado no mundo da blockchain e criptomoedas
+✌️ -Atualmente aprendendo C++ mas tambem interessado em java e PHP
+
+📬-Se quiser entrar em contato: Felipe.estevanatto@unesp.br
 
 <!--
 **FelipeEstevanatto/FelipeEstevanatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
