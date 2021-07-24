@@ -1,21 +1,21 @@
-### Olá pessoa 👋
-⚡ Sou estudante e muito entusiasmado com a programação, procurando aprender mais com qualquer tipo de projeto.
-**Também sou apaixonado pelo hardware na maquina tanto quanto pelo software** e busco sempre aprender mais dos dois
+### Hello someone 👋
+⚡ I'm a 16 years old student that likes programming, and is always looking to learn more with projects and any type of prototyping.
+**I'm very kind of close to the metal languages and hardware itself**, and seek to learn even more of both along with more languages and frameworks.
 
-💬-Gosto muito de tecnologia e suas implicações em sua aplicação e no mundo real
-🤔-Sou fascinado e interessado no mundo da blockchain e criptomoedas
-✌️ -Atualmente aprendendo C++, C#, Java e PHP
+💬-Love technology and its implications in our lives.
+🤔-Like to know how things work and how to customize and improve them
+✌️ -Currently learning PHP, C++, and Java.
 
-📬-Se quiser entrar em contato: felipe.estevanatto@unesp.br
+📬-You can contact me:<br> [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-estevanatto-802701197/)
 
-<!--
-**FelipeEstevanatto/FelipeEstevanatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 - Currently learning:<br>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="25" height="25"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="25" height="25"/> 
+</p>
