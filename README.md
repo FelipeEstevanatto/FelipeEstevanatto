@@ -3,20 +3,20 @@
 <img src="https://uploaddeimagens.com.br/images/003/073/061/full/computer-illustration.png?1612731879" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-⚡ I'm just a 16 years old student that likes programming - Recently studying Backend Web Development.
+⚡ I'm just a 17 years old student that likes programming - Recently studying Backend Web Development.
 
   <p align="left">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c" width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="25" height="25"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="25" height="25"/> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="25" height="25"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c" width="25" height="25"/>
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="25" height="25"/> 
   </p>
   
-✌️ - Currently learning PHP, C++, and Java.
+✌️ - Currently learning PHP, JS, C++, and Java.
 
 You can contact me on:<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-estevanatto-802701197/)<br>
